@@ -5,7 +5,6 @@ int	main()
 	Zombie		*arrayZombies;
 	std::string	nameZombies;
 	int			numberZombies;
-	bool isNumber = true;
 	
 	std::cout << "Welcome!, let's create a Zombie array!" << std::endl;
 	std::cout << "Enter the number of Zombie to create: " << std::endl;
